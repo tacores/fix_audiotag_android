@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fix_audiotag</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="fix_char_code">文字化けを修正する</string>
+    <string name="fix_play_order">複数枚アルバムの曲順を修正する</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">（お願い）このアプリは無料で全機能をお使いいただけますが、もし使ってみて役に立ったと思ったら、右下のボタンから開発者にいくらか投げ銭してもらえればとても励みになります。（金額は100円から1,000円の間で選べます）</string>
+    <string name="warning_backup">（警告）このアプリはスマホ内（SDカード含む）の音楽ファイル（.mp3,.m4a）のタグ情報を書き換えます。一度書き換えたら元に戻せませんので、必ずPCやクラウドなどに、音楽ファイルのバックアップを取っておいてください。（実際に書き換える前に、変更内容を確認することができます）</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
