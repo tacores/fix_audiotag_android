@@ -8,7 +8,7 @@
     <string name="fix_play_order">複数枚アルバムの曲順を修正する</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">（お願い）このアプリは無料で全機能をお使いいただけますが、もし使ってみて役に立ったと思ったら、右下のボタンから開発者にいくらか投げ銭してもらえればとても励みになります。（金額は100円から1,000円の間で選べます）</string>
-    <string name="warning_backup">（警告）このアプリはスマホ内（SDカード含む）の音楽ファイル（.mp3,.m4a）のタグ情報を書き換えます。一度書き換えたら元に戻せませんので、必ずPCやクラウドなどに、音楽ファイルのバックアップを取っておいてください。（実際に書き換える前に、変更内容を確認することができます）</string>
+    <string name="hello_first_fragment">（お願い）このアプリは無料で全機能を使えますが、もし役に立ったと思ったら、右下のボタンから開発者に投げ銭してもらえると、とても励みになります。（金額は100円から1,000円の間で選べます）</string>
+    <string name="warning_backup">（警告）このアプリはスマホ内（SDカード含む）の音楽ファイル（.mp3,.m4a）のタグ情報を解析し、修正が必要と判断した場合は書き換えます。一度書き換えたら元に戻せないため、またファイルが消えるなどの不測の事態に備えるため、必ずPCやクラウドなどに音楽ファイルのバックアップを保持してください。</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
